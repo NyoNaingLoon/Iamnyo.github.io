@@ -34,10 +34,10 @@
               <a class="nav-link  active text-light"  href="#abo">About me</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link  active text-light"  href="#1222">-Service</a>
+              <a class="nav-link  active text-light"  href="#">-Service</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link  active text-light"  href="#1222">-Service</a>
+              <a class="nav-link  active text-light"  href="#">-Service</a>
             </li>
           <form class="d-flex" role="search" >
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
